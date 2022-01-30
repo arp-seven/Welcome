@@ -1,3 +1,5 @@
+WELCOME TO MY PROJECT
+
 - 👋 Hi, I’m @arp-seven Junior Programmer and i'm fresh graduate in informatics engineering
 - 👀 I’m interested in Front-end, Back-end, Mobile Developer and UI Designer
 - 🌱 I’m currently learning PHP Native, Codeigniter, and JavaScript
